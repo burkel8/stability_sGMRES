@@ -10,8 +10,17 @@ Our code uses (with modifications) some of the code provided with the paper
 
 available at https://github.com/simunec/sketch-select-arnoldi 
 
+## Included Tests
+*test_random.m* Generates Figure 1.
+
+*test_torso.m*: Generates Figure 2.
+
+*test_stomach.m* Generates Figure 3.
+
+
+
 
 ## Code Requirements
 The code has been tested and developed using MATLAB 2023a.
 
-The script *test_torso.m* requires the torso3 matrix from [SuiteSparse](https://sparse.tamu.edu/)
+The script *test_torso.m* requires the torso3 matrix (ID: 898) from [SuiteSparse](https://sparse.tamu.edu/)
