@@ -26,4 +26,4 @@ available at https://github.com/simunec/sketch-select-arnoldi
 ## Code Requirements
 The code has been tested and developed using MATLAB 2023a.
 
-The script *test_torso.m* requires the torso3 matrix (ID: 898) from [SuiteSparse](https://sparse.tamu.edu/)
+The script **test_torso.m** requires the torso3 matrix (ID: 898) from [SuiteSparse](https://sparse.tamu.edu/)
