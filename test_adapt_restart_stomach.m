@@ -93,7 +93,6 @@ while it < maxiters
         tau = norm(SV2)*norm(y)/norm(Sx);
 
         if(tau*eps > 1)
-            fprintf('method 1: Restart number %d \n', restart);
             break;
         end
 
