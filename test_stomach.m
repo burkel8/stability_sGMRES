@@ -184,8 +184,6 @@ for restart = 1:nrestarts
 end
 
 %% sGMRES with sketch-and-select Arnoldi
-fprintf("sketch-and-select Arnoldi with pinv\n")
-
 x0 = zeros(n,1);
 r0 = b;
 
@@ -238,7 +236,6 @@ for restart = 1:nrestarts
 end
 
 % standard restarted GMRES
-fprintf("standard restarted GMRES \n");
 x0 = zeros(n,1);
 r0 = b;
 AV4 = [];
