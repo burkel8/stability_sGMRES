@@ -9,3 +9,7 @@ Our code uses (with modifications) some of the code provided with the paper
 [2] S. Güttel and I. Simunec, "A sketch-and-select Arnoldi process", SIAM Journal on Scientific Computing 46.4 (2024)
 
 available at https://github.com/simunec/sketch-select-arnoldi
+
+
+## Code Requirements
+The code has been tested and developed using MATLAB 2023a.
