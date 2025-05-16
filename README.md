@@ -8,7 +8,7 @@ Our code uses (with modifications) some of the code provided with the paper
 
 [2] S. Güttel and I. Simunec, "A sketch-and-select Arnoldi process", SIAM Journal on Scientific Computing 46.4 (2024)
 
-available at https://github.com/simunec/sketch-select-arnoldi 
+available at https://github.com/simunec/sketch-select-arnoldi. 
 
 ## Included Tests
 **test_random.m**: Generates Figure 1.
@@ -17,13 +17,13 @@ available at https://github.com/simunec/sketch-select-arnoldi
 
 **test_stomach.m**: Generates Figure 3.
 
-**test_adapt_restart_stomach.m**:  Generates Figure 4 a
+**test_adapt_restart_stomach.m**:  Generates Figure 4 a.
 
-**test_adapt_restart_fs_760_1.m**: Generates Figure 4 b
+**test_adapt_restart_fs_760_1.m**: Generates Figure 4 b.
 
-**test_adapt_restart_shermann.m**: Generates Figure 4 c
+**test_adapt_restart_shermann.m**: Generates Figure 4 c.
 
 ## Code Requirements
 The code has been tested and developed using MATLAB 2023a.
 
-The script **test_torso.m** requires the torso3 matrix (ID: 898) from [SuiteSparse](https://sparse.tamu.edu/)
+The script **test_torso.m** requires the torso3 matrix (ID: 898) from [SuiteSparse](https://sparse.tamu.edu/).
