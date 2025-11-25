@@ -11,17 +11,15 @@ Our code uses (with modifications) some of the code provided with the paper
 available at https://github.com/simunec/sketch-select-arnoldi. 
 
 ## Included Tests
-**test_random.m**: Generates Figure 1.
+**test_worstcase.m**: Generates Figure 1.
 
 **test_torso.m**: Generates Figure 2.
 
-**test_stomach.m**: Generates Figure 3.
+**test_restart.m**: Generates Figure 3.
 
-**test_adapt_restart_stomach.m**:  Generates Figure 4 a.
+**test_adapt.m**:  Generates Figures 4 and 5.
 
-**test_adapt_restart_fs_760_1.m**: Generates Figure 4 b.
-
-**test_adapt_restart_shermann.m**: Generates Figure 4 c.
+**test_adapt_pre.m**: Generates Figure 6.
 
 ## Code Requirements
 The code has been tested and developed using MATLAB 2023a.
