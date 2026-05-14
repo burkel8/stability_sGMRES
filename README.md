@@ -17,7 +17,9 @@ available at https://github.com/simunec/sketch-select-arnoldi.
 
 **test_restart.m**: Generates Figure 3. This test matrix is relatively large (with dimension 213,360), and therefore requires relatively long execution time.
 
-**test_adapt.m**:  Generates Figures 4 and 5.
+**test_adapt.m**:  Generates Figure 4.
+
+**test_adapt_sherman2.m**:  Generates Figure 5.
 
 **test_adapt_pre.m**: Generates Figure 6.
 
