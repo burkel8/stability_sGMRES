@@ -13,9 +13,9 @@ available at https://github.com/simunec/sketch-select-arnoldi.
 ## Included Tests
 **test_worstcase.m**: Generates Figure 1.
 
-**test_torso.m**: Generates Figure 2.
+**test_torso.m**: Generates Figure 2. This test matrix is relatively large (with dimension 259,156), and therefore requires relatively long execution time.
 
-**test_restart.m**: Generates Figure 3.
+**test_restart.m**: Generates Figure 3. This test matrix is relatively large (with dimension 213,360), and therefore requires relatively long execution time.
 
 **test_adapt.m**:  Generates Figures 4 and 5.
 
